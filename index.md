@@ -1,3 +1,10 @@
+#Tyler Wichman's First CS193 Homework
+
+- I will gain useful knowledge for my time here taking Computer Science courses at Purdue
+- I have plenty of resoruces to help me during this course
+- The Course Leads are awesome
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
